@@ -1,3 +1,4 @@
+# TrendRadar Dependencies for Vercel Serverless Deployment
 requests>=2.32.5,<3.0.0
 pytz>=2025.2,<2026.0
 PyYAML>=6.0.3,<7.0.0
